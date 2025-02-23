@@ -1,4 +1,4 @@
-<h1>👋Sobre Mi</h1>
+<h1>👋 Sobre Mi</h1>
 
 Hola, mi nombre es Jonay, soy estudiante de Ingeniería Informática y un apasionado de la ciberseguridad. Mi camino en este campo no se limita a las aulas universitarias; también me he sumergido en el aprendizaje autodidacta, explorando de manera constante las últimas tendencias, herramientas y técnicas en el mundo del pentesting y la seguridad informática. La curiosidad y el deseo de entender los entresijos del mundo digital son mis principales motores.
 
@@ -13,5 +13,6 @@ Creo firmemente que compartir conocimientos es una de las mejores formas de crec
 Soy una persona curiosa, analítica y perseverante. Disfruto enfrentándome a problemas complejos y encontrando soluciones creativas. Más allá de mis estudios y proyectos personales, me apasiona trabajar en equipo, aprender de los demás y colaborar para alcanzar objetivos comunes.
 En el futuro, aspiro a formar parte de equipos dedicados a la ciberseguridad en empresas innovadoras, donde pueda aplicar mis conocimientos y seguir aprendiendo. Estoy convencido de que con dedicación y esfuerzo, puedo contribuir significativamente al fortalecimiento de la seguridad en el entorno digital.
 
+<h2>👋 Agredecimientos</h2>
 Gracias por tomarte el tiempo de conocer un poco sobre mí y sobre el propósito de este GitBook. Espero que encuentres en estas páginas la información y las herramientas que necesitas para avanzar en tu propio camino en la ciberseguridad.
 

@@ -14,5 +14,5 @@ Soy una persona curiosa, analítica y perseverante. Disfruto enfrentándome a pr
 En el futuro, aspiro a formar parte de equipos dedicados a la ciberseguridad en empresas innovadoras, donde pueda aplicar mis conocimientos y seguir aprendiendo. Estoy convencido de que con dedicación y esfuerzo, puedo contribuir significativamente al fortalecimiento de la seguridad en el entorno digital.
 
 <h2>👋 Agredecimientos</h2>
-Gracias por tomarte el tiempo de conocer un poco sobre mí y sobre el propósito de este GitBook. Espero que encuentres en estas páginas la información y las herramientas que necesitas para avanzar en tu propio camino en la ciberseguridad.
+Gracias por tomarte el tiempo de conocer un poco sobre mí y sobre el propósito de este GitHub. Espero que encuentres en estas páginas la información y las herramientas que necesitas para avanzar en tu propio camino en la ciberseguridad.
 

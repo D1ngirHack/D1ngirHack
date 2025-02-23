@@ -5,7 +5,7 @@ Hola, mi nombre es Jonay, soy estudiante de Ingeniería Informática y un apasio
 <h2>🚀 Mi motivación</h2>
 Desde que comencé a estudiar ciberseguridad, he encontrado en esta disciplina un campo fascinante donde el aprendizaje es constante y los desafíos son infinitos. Mi objetivo principal es obtener varios certificados de renombre en el área, que respalden mis conocimientos y habilidades. Considero que estos certificados no solo validan lo que sé, sino que también abren puertas hacia oportunidades profesionales desafiantes.
 
-<h2>🔧 Propósito de este GitBook</h2>
+<h2>🔧 Propósito de este GitHub</h2>
 Este GitBook nace de mi deseo de contribuir a la comunidad, del mismo modo que muchos recursos en línea me han ayudado a lo largo de mi formación. Mi intención es crear una guía accesible y práctica para quienes estén interesados en el pentesting, recopilando información útil y estructurada que pueda servir tanto a principiantes como a profesionales que buscan un recurso de referencia.
 Creo firmemente que compartir conocimientos es una de las mejores formas de crecer, no solo como profesional, sino también como persona. Este proyecto representa mi compromiso con esa filosofía y mi esfuerzo por devolver algo a la comunidad que tanto me ha dado.
 

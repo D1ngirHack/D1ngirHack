@@ -1,4 +1,4 @@
-![Banner](./assets/banner.png)
+![Banner](./assets/banner.jpg)
 
 # 👋 ¡Hola! Soy Jonay
 

@@ -1,3 +1,5 @@
+![Banner](./assets/banner.png)
+
 # 👋 ¡Hola! Soy Jonay
 
 🎓 **Estudiante de Ingeniería Informática** | 🔐 **Apasionado por la Ciberseguridad**
